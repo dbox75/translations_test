@@ -6,7 +6,7 @@ indicators: 지표
 goal: 목표
 # This is the plural version of the goal key
 goals: 11개 영역
-goals_title: 수도권 광역지표 온라인 서비스
+goals_title: 수도권 광역지표 온라인 서비스 1
 sdg: 지속가능발전목표
 # This refers to the 'home page' of a website
 home: Home
@@ -24,7 +24,7 @@ targets_and_indicators: Targets and indicators
 # A label of "Warning" to place before some other text.
 label_warning: "Warning:"
 # A phrase to use as a site-wide page title.
-site_title: 수도권 광역지표 온라인 서비스
+site_title: 수도권 광역지표 온라인 서비스 2
 back_to_top: Back to top
 footer_notice: 이 웹사이트는 통계청 통계개발원에서 운영하는 공식 플랫폼입니다.<br>35220 대전광역시 서구 한밭대로 713 통계센터 통계개발원 &nbsp; &nbsp; Fax： 042 366 7123  &nbsp; &nbsp; Email： sdgkostat@korea.kr
 piece: 개
