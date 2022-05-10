@@ -5,7 +5,7 @@ description: >-
   Sustainable Development Goals, and then provide those translations as JSON.
 baseurl: "/translations_test"
 url: "https://dbox75.github.io"
-repo: "https://github.com/dbox75/translations-test"
+repo: "https://github.com/dbox75/translations_test"
 
 # Build settings
 markdown: kramdown
