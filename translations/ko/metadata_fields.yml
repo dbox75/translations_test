@@ -19,7 +19,7 @@ data_name: 데이터명
 statistics_name: 자료출처
 indicator_sort_order: 지표 정렬 번호
 national_data_update_url: 데이터 갱신 이력
-data_download_date: 
+data_download_date: 자료다운일자
 #A label describing information - any calculations that were used in the production of a dataset
 computation_calculations: 측정
 #A label describing information - the geographical area covered by a dataset
@@ -115,7 +115,7 @@ copyright: Copyright
 SDG_INDICATOR_INFO: Indicator information
 SDG_GOAL: 영역
 SDG_TARGET: 하위영역
-SDG_INDICATOR: Indicator
+SDG_INDICATOR: 지표명
 SDG_SERIES_DESCR: Series
 META_LAST_UPDATE: Metadata update
 SDG_RELATED_INDICATORS: Related indicators
