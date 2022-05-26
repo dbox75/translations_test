@@ -1,11 +1,11 @@
 # This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
 indicator: 지표
 # This is the plural version of the indicator key
-indicators: 지표
+indicators: 세부 지표
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
 goal: 영역
 # This is the plural version of the goal key
-goals: 11개 영역
+goals: 수도권 광역지표
 goals_title: 수도권 광역지표 온라인 서비스<br><테스트 페이지>
 sdg: 지속가능발전목표
 # This refers to the 'home page' of a website
@@ -14,7 +14,7 @@ loading: 검색 결과를 불러오고 있습니다.
 opens_new_window: 새 창에서 열기
 hide: hide
 target: 하위영역
-targets: 하위영역
+targets: 하위 영역
 twitter: Twitter
 facebook: Facebook
 built_using_open_sdg: Built using Open SDG
