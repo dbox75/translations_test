@@ -113,9 +113,9 @@ rational_interpretation: Rational and interpretation
 copyright: Copyright
 #Fields from the SDMX MSD.
 SDG_INDICATOR_INFO: Indicator information
-SDG_GOAL: 영역
+SDG_GOAL: 영   역
 SDG_TARGET: 하위영역
-SDG_INDICATOR: 지표명
+SDG_INDICATOR: 지 표 명
 SDG_SERIES_DESCR: Series
 META_LAST_UPDATE: Metadata update
 SDG_RELATED_INDICATORS: Related indicators
