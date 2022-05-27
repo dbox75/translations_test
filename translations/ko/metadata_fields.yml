@@ -1,7 +1,7 @@
 #A label describing information - any other metadata about a particular indicator - not covered by more specific labels
 other_info: Other information
 #A label describing information - a list of definitions of terms used within other metadata fields
-computation_definitions: 데이터 유형
+computation_definitions: 지표분류
 #A label describing information - the unit of measurement that is being represented in a dataset
 computation_units: 단위
 computation_coverage: 범위
