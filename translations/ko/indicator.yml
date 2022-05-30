@@ -38,7 +38,7 @@ dataset_size_warning: 너무 많은 항목이 선택되었습니다. 선택을 �
 view_indicator_list: View this goal's indicator list
 # A label describing a section of the page that allows the user to filter data by sub-category
 sub_categories: 데이터 세분화
-series_help: 성, 연령 등에 따른 세분화된 값을 보려면 해당되는 항목을 선택해 주십시오.
+series_help: 타 지역 지표값을 보려면 해당 항목을 선택해 주십시오.
 chart: 그래프
 table: 표
 map: 지도
