@@ -30,4 +30,6 @@ footer_notice: 이 웹사이트는 테스트중입니다.<br>테스트&nbsp; &nb
 piece: 개
 reporting_status_comment: 231개 지표 기준시, 163개 지표 이용 가능
 quote: 인용
-new_test_dt: 번역 테스트
+semi_goal_A: 경쟁력 지표
+semi_goal_B: 발전 지표
+semi_goal_C: 생활 지표
